@@ -104,7 +104,7 @@ public class SortProductSteps {
         Assert.assertNotNull(highest, "Highest product not found");
 
 	    System.out.println("Highest Price Product:");
-	    System.out.println("Highest Product Detail - "+highest.getPrice());
+	    System.out.println("Highest Product Detail - "+highest.getName());
 	    System.out.println("Highest Prodcut Price - "+highest.getPrice());
     }
 }
