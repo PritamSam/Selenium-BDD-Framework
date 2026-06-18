@@ -1,0 +1,55 @@
+2026-06-18 11:24:54 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-06-18 11:24:54 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+2026-06-18 11:24:54 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-06-18 11:24:54 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-06-18 11:24:54 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-06-18 11:24:54 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-06-18 11:24:54 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-06-18 11:24:54 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-06-18 11:24:54 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-06-18 11:24:54 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 10 ms.
+2026-06-18 11:24:54 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-06-18 11:24:54 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-06-18 11:24:54 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-06-18 11:24:54 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-06-18 11:24:54 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-06-18 11:24:54 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-06-18 11:24:54 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-06-18 11:24:54 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-06-18 11:24:54 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-06-18 11:24:54 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-06-18 11:24:54 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-06-18 11:24:54 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-06-18 11:24:54 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-06-18 11:24:54 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-06-18 11:24:54 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 2 ms.
+2026-06-18 11:24:54 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-06-18 11:24:54 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-06-18 11:24:54 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-06-18 11:24:54 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-06-18 11:24:54 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-06-18 11:24:54 [main] INFO  Utils - [TestNG] Running:
+  C:\Users\prita\AppData\Local\Temp\testng-eclipse-1675455115\testng-customsuite.xml
+
+2026-06-18 11:24:54 [main] INFO  Utils - [Utils] DynamicGraphHelper.createDynamicGraph() took 2 ms.
+2026-06-18 11:24:56 [main] INFO  Hooks - Browser launched successfully
+2026-06-18 11:24:56 [main] INFO  CartSteps - Launching Home Page
+2026-06-18 11:24:56 [main] INFO  CartSteps - Searching product: iphone
+2026-06-18 11:25:00 [main] INFO  CartSteps - Applying brand filter
+2026-06-18 11:25:00 [main] INFO  CartSteps - Applying storage filter
+2026-06-18 11:25:01 [main] INFO  CartSteps - Adding product to cart
+2026-06-18 11:25:02 [main] INFO  CartSteps - Navigating to cart page
+2026-06-18 11:25:04 [main] INFO  CartSteps - Cart count fetched from UI: 1
+2026-06-18 11:25:04 [main] INFO  CartSteps - Precondition: product already exists in cart
+2026-06-18 11:25:04 [main] INFO  CartSteps - Removing product from cart
+2026-06-18 11:25:05 [main] INFO  CartSteps - Cart count fetched from UI: 0
+2026-06-18 11:25:05 [main] INFO  SortProductSteps - Launching Home Page
+2026-06-18 11:25:05 [main] INFO  SortProductSteps - Searching for product: iphone
+2026-06-18 11:25:07 [main] INFO  SortProductSteps - Products found: 12
+2026-06-18 11:25:07 [main] INFO  SortProductSteps - Sorting products by price (Low to High)
+2026-06-18 11:25:07 [main] INFO  Utils - [TestNG] Time taken by org.testng.reporters.jq.Main@39de9bda: 41 ms
+2026-06-18 11:25:07 [main] INFO  Utils - [TestNG] Time taken by org.testng.reporters.FailedReporter@47148f3f: 0 ms
+2026-06-18 11:25:07 [main] INFO  Utils - [TestNG] Time taken by org.testng.reporters.XMLReporter@6cfbbff7: 10 ms
+2026-06-18 11:25:07 [main] INFO  Utils - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@54336976: 5 ms
+2026-06-18 11:25:07 [main] INFO  Utils - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@429aeac1: 5 ms
+2026-06-18 11:25:07 [main] INFO  Utils - [TestNG] Time taken by org.testng.internal.ExitCodeListener@79eeff87: 0 ms
