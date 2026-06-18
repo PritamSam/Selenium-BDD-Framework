@@ -1,7 +1,7 @@
 # Selenium-BDD-Framework
 This repository describes Selenium BDD Automation Framework
 
-To run this project, right click on testrunner file and run as testng
+To run this project, right click on TestRunner.java and run as TestNG Test
 
 ```
 pom.xml
